@@ -1,7 +1,7 @@
 +++
 title = "How To Take Smart Notes"
 author = ["Jethro Kuan"]
-lastmod = 2020-05-13T01:14:15+08:00
+lastmod = 2020-05-19T16:17:45+08:00
 draft = false
 +++
 
@@ -61,6 +61,10 @@ Write literature notes, and keep the bibliographic sources.
 ### To achieve a critical mass, it is crucial to distinguish clearly between three types of notes {#to-achieve-a-critical-mass-it-is-crucial-to-distinguish-clearly-between-three-types-of-notes}
 
 ### why the threshold to write an idea down has to be as low as possible, but it is equally crucial to elaborate on them within a day or two {#why-the-threshold-to-write-an-idea-down-has-to-be-as-low-as-possible-but-it-is-equally-crucial-to-elaborate-on-them-within-a-day-or-two}
+
+### hermeneutic circle {#hermeneutic-circle}
+
+The decision to read/write something does not come out of thin air
 
 ## Motivations {#motivations}
 

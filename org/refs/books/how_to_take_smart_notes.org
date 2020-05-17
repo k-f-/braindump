@@ -111,7 +111,7 @@ The decision to read/write something does not come out of thin air
 
 #+begin_quote
 Notes aren't a record of my thinking process. They are my thinking
-process. -- [[file:../../20200213121436.org][Sonke Ahrens]]
+process. -- [[file:../../20200213173516.org][Richard Feynman]]
 #+end_quote
 
 The mind is extremely reliant of external scaffolding:
@@ -149,4 +149,4 @@ order/ for the notes in which to write about.
 - [[https://vimeo.com/275530205][Sönke Ahrens - How to take smart notes on Vimeo]]
 - [[https://www.nateliason.com/blog/smart-notes][How to Take Smart Notes: A Step-by-Step Guide - Nat Eliason]]
 
-bibliography:biblio.bib
+bibliography:../../biblio.bib
